@@ -27,7 +27,7 @@
     </style>
 
     <style name="V7.ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
-        <item name="android:background">#ff87CEEB</item>
+        <item name="android:background">#FF355E71</item>
     </style>
 
     <item name="pop_menu_item_prefix" type="id" />

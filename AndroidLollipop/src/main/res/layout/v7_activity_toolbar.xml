@@ -4,25 +4,38 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-
     tools:context="dev.xesam.android.study.lollipop.v7.toolbar.ToolbarActivity">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/v7_toolbar_1"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="wrap_content"
         app:theme="@style/V7.ToolbarTheme">
-
-        <Spinner
-            android:id="@+id/v7_toolbar_spinner"
+        <LinearLayout
+            android:layout_gravity="center"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
-
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:textSize="18dp"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:text="title" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:textColor="@android:color/white"
+                android:text="subTitle" />
+        </LinearLayout>
     </android.support.v7.widget.Toolbar>
-
+    <Spinner
+        android:id="@+id/v7_toolbar_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
     <android.support.v7.widget.Toolbar
-
         android:id="@+id/v7_toolbar_2"
         android:layout_width="match_parent"
         android:layout_height="60dp">

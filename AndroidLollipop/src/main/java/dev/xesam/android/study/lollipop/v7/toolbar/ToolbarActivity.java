@@ -30,16 +30,12 @@ public class ToolbarActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.v7_activity_toolbar);
         Toolbar toolbar = (Toolbar) findViewById(R.id.v7_toolbar_1);
-        toolbar.setLogo(R.drawable.ic_launcher);
         if (toolbar != null) {
             setSupportActionBar(toolbar);
         }
-        getSupportActionBar().setTitle("Toolbar");
-        getSupportActionBar().setSubtitle("subtitle");
-
-
+        toolbar.setNavigationIcon(R.drawable.btn_back);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
         Spinner spinner = (Spinner) findViewById(R.id.v7_toolbar_spinner);
-
         String[] data = new String[]{
                 "AAAAAAAAAA",
                 "BBBBBBBBBB",
@@ -72,7 +68,6 @@ public class ToolbarActivity extends ActionBarActivity {
 
         SpinnerAdapter spinnerAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, data);
         spinner.setAdapter(spinnerAdapter);
-
         Toolbar toolbar2 = (Toolbar) findViewById(R.id.v7_toolbar_2);
         toolbar2.setTitle("tabs");
         toolbar2.setLogo(R.drawable.ic_launcher);
