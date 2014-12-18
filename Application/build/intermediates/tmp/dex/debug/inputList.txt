@@ -1,0 +1,6 @@
+/Users/yorkit/gitResouse/AndroidDemos/Application/build/intermediates/classes/debug
+/Users/yorkit/gitResouse/AndroidDemos/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-a8e7feaa35d696c73c640d504374fe1101e25ce4.jar
+/Users/yorkit/gitResouse/AndroidDemos/Application/build/intermediates/pre-dexed/debug/classes-685e1cef85f1683d33abeac5447203882239c814.jar
+/Users/yorkit/gitResouse/AndroidDemos/Application/build/intermediates/pre-dexed/debug/classes-184867ac76906dfac0ec7bfbf7b20fe4e585c20e.jar
+/Users/yorkit/gitResouse/AndroidDemos/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-67a3d9f584e805e6f46c0dabf3b38c7830d49266.jar
+/Users/yorkit/gitResouse/AndroidDemos/Application/build/intermediates/pre-dexed/debug/classes-9a59845875238170b53d8f37a87550dfc751d90d.jar

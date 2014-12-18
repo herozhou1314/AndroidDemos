@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dev.xesam.android.study.lollipop">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".v7.RecyclerView.RecyclerViewActivity"
+            android:label="@string/title_activity_recycler_view"></activity>
+        <activity
+            android:name=".v7.ListPopupWindow.ListPopupWindowActivity"
+            android:label="@string/title_activity_list_popup_window"
+            android:theme="@style/V7.ListPopupWindow">
+
+        </activity>
+        <activity
+            android:name=".v7.toolbar.ToolbarActivity"
+            android:label="@string/title_activity_toolbar"
+            android:theme="@style/V7.Toolbar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

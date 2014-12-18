@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="dev.xesam.android.study.lollipop.v7.toolbar.ToolbarActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/v7_toolbar_1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:theme="@style/V7.ToolbarTheme">
+
+        <Spinner
+            android:id="@+id/v7_toolbar_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </android.support.v7.widget.Toolbar>
+
+
+    <android.support.v7.widget.Toolbar
+
+        android:id="@+id/v7_toolbar_2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <dev.xesam.android.study.lollipop.v7.toolbar.SlidingTabLayout
+            android:id="@+id/v7_sliding_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </android.support.v7.widget.Toolbar>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/v7_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="V7"></style>
+
+    <style name="V7.ListPopupWindowStyle" parent="@style/Widget.AppCompat.ListPopupWindow">
+        <item name="android:popupBackground">#404040</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">match_parent</item>
+    </style>
+
+    <style name="V7.DropDownListViewStyle" parent="@style/Widget.AppCompat.ListView.DropDown">
+        <item name="android:listSelector">@drawable/list_selector</item>
+        <item name="android:divider">#242424</item>
+        <item name="android:dividerHeight">1px</item>
+    </style>
+
+    <style name="V7.ListPopupWindow" parent="AppTheme">
+        <item name="listPopupWindowStyle">@style/V7.ListPopupWindowStyle</item>
+        <item name="dropDownListViewStyle">@style/V7.DropDownListViewStyle</item>
+    </style>
+
+
+    <style name="V7.Toolbar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="V7.ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:background">#ff87CEEB</item>
+    </style>
+
+    <item name="pop_menu_item_prefix" type="id" />
+    <item name="pop_menu_item_content" type="id" />
+    <item name="pop_menu_item_suffix" type="id" />
+    <item name="pop_menu_item_layout" type="layout" />
+</resources>
