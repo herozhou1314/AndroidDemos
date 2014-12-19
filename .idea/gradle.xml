@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AndroidLollipop" />
             <option value="$PROJECT_DIR$/Application" />
+            <option value="$PROJECT_DIR$/RecyclerView" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/swipeRefreshAndload" />
           </set>
