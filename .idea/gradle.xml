@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AndroidLollipop" />
             <option value="$PROJECT_DIR$/Application" />
+            <option value="$PROJECT_DIR$/MyJNILibrary" />
+            <option value="$PROJECT_DIR$/NDKDemo" />
             <option value="$PROJECT_DIR$/RecyclerView" />
             <option value="$PROJECT_DIR$/androidNdk" />
             <option value="$PROJECT_DIR$/app" />
