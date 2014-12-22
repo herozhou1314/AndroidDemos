@@ -1,0 +1,3 @@
+/Users/yorkit/gitResouse/AndroidDemos/androidNdk/build/intermediates/classes/debug
+/Users/yorkit/gitResouse/AndroidDemos/androidNdk/build/intermediates/pre-dexed/debug/classes-e28e58fb5902a9a05e66edb0e451577ece3cafb0.jar
+/Users/yorkit/gitResouse/AndroidDemos/androidNdk/build/intermediates/pre-dexed/debug/support-v4-18.0.0-ee4be14a1c8cfb9c92fbc8575d8f34e8d603dabe.jar

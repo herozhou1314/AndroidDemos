@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/yorkit/gitResouse/AndroidDemos/androidNdk/src/main/res/values/isd.xml -->
+    <eat-comment/>
+    <item name="id_default_tv01" type="id"/>
+    <item name="id_default_tv02" type="id"/>
+    <item name="id_default_tv03" type="id"/>
+    <item name="id_default_tv04" type="id"/>
+    <!-- From: file:/Users/yorkit/gitResouse/AndroidDemos/androidNdk/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AndroidNdk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_activity_title_01">android java 传递对象到 c 中</string>
+    <string name="str_activity_title_02">android jni  </string>
+    <string name="str_activity_title_03">android jni  cpp</string>
+    <string name="str_activity_title_04">jni to java</string>
+    <!-- From: file:/Users/yorkit/gitResouse/AndroidDemos/androidNdk/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

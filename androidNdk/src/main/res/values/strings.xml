@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidNdk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <!-- activity name -->
+    <string name="str_activity_title_01">android java 传递对象到 c 中</string>
+    <string name="str_activity_title_02">android jni  </string>
+    <string name="str_activity_title_03">android jni  cpp</string>
+    <string name="str_activity_title_04">jni to java</string>
+</resources>

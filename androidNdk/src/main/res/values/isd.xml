@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="id_default_tv01" type="id"/>
+    <item name="id_default_tv02" type="id"/>
+    <item name="id_default_tv03" type="id"/>
+    <item name="id_default_tv04" type="id"/>
+
+</resources>

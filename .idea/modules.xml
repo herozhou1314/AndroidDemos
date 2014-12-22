@@ -6,8 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidLollipop/AndroidLollipop.iml" filepath="$PROJECT_DIR$/AndroidLollipop/AndroidLollipop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerView/RecyclerView.iml" filepath="$PROJECT_DIR$/RecyclerView/RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidNdk/androidNdk.iml" filepath="$PROJECT_DIR$/androidNdk/androidNdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndklibrary/ndklibrary.iml" filepath="$PROJECT_DIR$/ndklibrary/ndklibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipeRefreshAndload/swipeRefreshAndload.iml" filepath="$PROJECT_DIR$/swipeRefreshAndload/swipeRefreshAndload.iml" />
     </modules>
   </component>
