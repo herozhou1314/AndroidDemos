@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidLollipop/AndroidLollipop.iml" filepath="$PROJECT_DIR$/AndroidLollipop/AndroidLollipop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyJNILibrary/MyJNILibrary.iml" filepath="$PROJECT_DIR$/MyJNILibrary/MyJNILibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JNILibrary/JNILibrary.iml" filepath="$PROJECT_DIR$/JNILibrary/JNILibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/NDKDemo/NDKDemo.iml" filepath="$PROJECT_DIR$/NDKDemo/NDKDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerView/RecyclerView.iml" filepath="$PROJECT_DIR$/RecyclerView/RecyclerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidNdk/androidNdk.iml" filepath="$PROJECT_DIR$/androidNdk/androidNdk.iml" />
