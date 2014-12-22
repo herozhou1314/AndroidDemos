@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/Application" />
             <option value="$PROJECT_DIR$/RecyclerView" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/libs" />
             <option value="$PROJECT_DIR$/swipeRefreshAndload" />
           </set>
         </option>

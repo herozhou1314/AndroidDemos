@@ -1,2 +1,2 @@
-include ':app', ':AndroidLollipop', ':Application', 'RecyclerView'
+include ':app', ':AndroidLollipop', ':Application', ':libs', 'RecyclerView'
 include ':swipeRefreshAndload'
